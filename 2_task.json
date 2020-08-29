@@ -1,0 +1,63 @@
+{
+  "agents": {
+    "Gerardo Lamarez": {
+      "used_macros": [
+        "az_sig",
+        "Connections::con_linux_complete_reinstall",
+        "az_sig",
+        "Generals::gen_mail_issue"
+      ],
+      "avg_res_time": "12:20:25",
+      "responses": 2
+    },
+    "Leonardo Sofrano": {
+      "used_macros": [
+        "mindas_sig",
+        "Generals::gen_cybersec_disable"
+      ],
+      "avg_res_time": "17:48:10",
+      "responses": 1
+    },
+    "Joaquin Juderias": {
+      "used_macros": [
+        "Ric_sig_end",
+        "Connections::con_logs_linux_app"
+      ],
+      "avg_res_time": "20:45:05",
+      "responses": 1
+    },
+    "Juan Vélez": {
+      "used_macros": [
+        "sig_AraNa",
+        "Connections::con_linux_dns"
+      ],
+      "avg_res_time": "18:02:41",
+      "responses": 1
+    },
+    "Ismael Gaos": {
+      "used_macros": [
+        "ism_sig"
+      ],
+      "avg_res_time": "19:58:36",
+      "responses": 1
+    },
+    "Eduardo Gonzales": {
+      "used_macros": [
+        "sig_zilvinas_es1",
+        "Generals::gen_mail_issue_servers"
+      ],
+      "avg_res_time": "19:13:02",
+      "responses": 1
+    },
+    "Ernesto Sanchez": {
+      "used_macros": [
+        "pp_sign",
+        "Connections::con_solvd"
+      ],
+      "avg_res_time": "17:56:50",
+      "responses": 1
+    }
+  },
+  "macros": 15,
+  "responses_total": 8
+}
